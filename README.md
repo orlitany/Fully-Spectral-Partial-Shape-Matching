@@ -1,3 +1,3 @@
 # Fully-Spectral-Partial-Shape-Matching
 
-Code for this paper will be made availiable soon. Contact me via email if you can't wait ;) 
+Code for this paper is here: https://github.com/orlitany/FSPM 
